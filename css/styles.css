@@ -35,6 +35,12 @@ body, html {
 .w3-hover-opacity {cursor: pointer;}
 .fa-brands {padding-right: 7px;}
 
+#workerme {
+  width: 500px;
+  height: 333px;
+  object-fit: contain;
+}
+
 /* Turn off parallax scrolling for tablets and phones */
 @media only screen and (max-device-width: 1600px) {
   .bgimg-1, .bgimg-2, .bgimg-3 {
