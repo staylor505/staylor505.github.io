@@ -41,6 +41,10 @@ body, html {
   object-fit: contain;
 }
 
+#map {
+  border: 3px solid black;
+}
+
 /* Turn off parallax scrolling for tablets and phones */
 @media only screen and (max-device-width: 1600px) {
   .bgimg-1, .bgimg-2, .bgimg-3 {
